@@ -32,3 +32,14 @@ Communicating openly and effectively, actively listening to team members' perspe
 Taking initiative to share knowledge, skills, and resources with the team, and willingly stepping in to support team members when needed, to ensure a cohesive and high-performing team dynamic.
 Recognizing and appreciating the contributions of my team members, and celebrating team achievements to foster a positive team spirit and motivation.
 I am committed to maintaining my role as a team player and contributing to the success of the team and the organization as a whole.
+
+
+
+I would like to highlight my functional expertise in ReactJS and my contributions in this area:
+
+Demonstrating in-depth knowledge and expertise in ReactJS, including its concepts, best practices, and latest updates, to develop efficient and high-quality applications.
+Leveraging my ReactJS expertise to design and implement robust and scalable user interfaces, ensuring optimal performance and usability for end-users.
+Keeping up-to-date with the latest trends and advancements in ReactJS, actively researching and implementing new features, libraries, and techniques to improve development processes and deliver cutting-edge solutions.
+Providing technical guidance and mentorship to team members, sharing my expertise and helping them enhance their ReactJS skills to collectively raise the team's proficiency in front-end development.
+Actively engaging in knowledge sharing sessions, contributing to internal documentation and training materials, and participating in relevant forums and communities to share my expertise with the broader organization.
+I am committed to maintaining my functional expertise in ReactJS and driving continuous improvement in front-end development practices.
