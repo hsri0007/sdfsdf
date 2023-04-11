@@ -86,3 +86,14 @@ I have actively pursued opportunities to enhance my skills through self-learning
 I have also taken on additional responsibilities, providing technical guidance to team members, conducting code reviews, and actively contributing to architectural discussions. I have been able to leverage my expertise in ReactJS to deliver high-quality solutions that have positively impacted our project outcomes.
 
 I am committed to furthering my expertise in ReactJS and staying up-to-date with the latest advancements in the field. I look forward to continuing to contribute my skills and knowledge to our team's success.
+
+
+
+
+
+
+
+
+
+
+I possess a strong expertise in ReactJS, having transitioned from an intermediate to an advanced level. I have actively pursued self-learning and professional development opportunities to enhance my skills in areas such as component composition, state management, performance optimization, and advanced UI/UX patterns. I have successfully applied these skills in my projects, contributing to the team's success. I am committed to continuous improvement and staying updated with the latest advancements in ReactJS to deliver high-quality solutions.
